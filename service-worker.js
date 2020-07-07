@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/blynk/precache-manifest.9c848e7ad9d3f34a9e5ca1ce90bc28d9.js"
+  "/blynk/precache-manifest.9b3a7254a2b49a3e4c8e3ecef41dd67d.js"
 );
 
 self.addEventListener('message', (event) => {
