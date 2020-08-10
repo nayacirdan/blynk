@@ -1,5 +1,23 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Task Description
+
+Ми будемо оцінювати уважність до деталей і якість коду,
+ але в першу чергу чи працює додаток чи ні
+В користувача має бути можливість додавати та видаляти завдання, а також додавати коментарі по CTRL+Enter
+При перезавантаженні сторінки дані мають зберігатись на клієнтській частині через  Local Storage
+Достатньо desktop версії, responsive не обов’язковий(веб додаток)
+Можна використовувати Bootstrap або просто CSS
+На записаному відео можна подивитись який функціонал потрібно реалізувати.
+При написанні використовувати React.js.
+Ви можете знайти приклади простої реалізації ToDoList за посиланням: https://reactjsexample.com/tag/todo/.
+Орієнтовний час виконання завдання 2 години.
+Готовий результат залити на github pages.
+Дизайн має бути близько до того, що на відео.(не обов'язково)
+
+
+#### Demo https://drive.google.com/drive/u/0/folders/1p3h6ZsMdI8cS4Mw7ld7tb1Bd2elphR-C
+
 ## Available Scripts
 
 In the project directory, you can run:
